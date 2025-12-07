@@ -1,0 +1,2 @@
+# bq_looker_portfolio
+SQL・BigQuery・Looker Studio を用いたデータ分析ポートフォリオ。StackOverflow は、世界中のエンジニアがプログラミングの質問と回答を投稿するQ&amp;Aサイトです。本分析では、その公開データを用いて質問数の推移や回答速度などを可視化しています。
